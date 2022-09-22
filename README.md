@@ -23,9 +23,9 @@ corrente está no array de caracteres processados(`processedChars`). Caso não e
 
 
 
-## Executar o algoritmo ::man_technologist::
+## Executar o algoritmo :rocket:
 ```
-git clone https://github.com/mathd1as/most-long-substring-algorithm.git
-cd most-long-substring-algorithm.git/
-node most-long-substring-alg.js
+1. git clone https://github.com/mathd1as/most-long-substring-algorithm.git
+2. cd most-long-substring-algorithm.git/
+3. node most-long-substring-alg.js
 ```
