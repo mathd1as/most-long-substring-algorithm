@@ -19,7 +19,6 @@ function mostLongSubstringAlg(string) {
         }
     }
 
-    console.log({ mostLongSubstr })
     console.log("Saida: ", mostLongSubstr.length)
 }
 
