@@ -23,7 +23,7 @@ corrente está no array de caracteres processados(`processedChars`). Caso não e
 
 
 
-## Executar o algoritmo ::man_technologist::
+## Executar o algoritmo :rocket:
 ```
 git clone https://github.com/mathd1as/most-long-substring-algorithm.git
 cd most-long-substring-algorithm.git/
