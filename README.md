@@ -10,7 +10,7 @@ Foram implementadas duas funções:
 2. `mostLongSubstringAlg() =>` reponsável por executar toda lógica do problema;
 
 ## Lógica utilizada na resolução do problema
-Para encontrar o comprimento da maior substring foram criadas 3 variáveis:
+Para encontrar o comprimento da maior substring foram criadas três variáveis:
 1. `mostLongSubstr`: variavel utilizada para armazenar a maior substring encontrada;
 2. `substr`: substring em processamento não repetida;
 3. `processedChars`: caracteres já processados e não repetidos;
