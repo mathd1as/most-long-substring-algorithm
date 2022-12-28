@@ -1,5 +1,5 @@
 # most-long-substring-algorithm
-teste
+
 ## Problema
 Dada uma string S, encontre o comprimento da substring mais longa sem repetir
 caracteres.
